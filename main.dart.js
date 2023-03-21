@@ -66302,7 +66302,7 @@ A.Kn.prototype={
 I(a){var s=null
 return A.aer(s,A.lR(s,A.o5(A.a([B.GD,A.aeg(A.f7(new A.u2(new A.rD("assets/images/logo_1024.jpg"),s),300,300),1),B.kK,this.S9(a)],t.p),B.fu,B.bF,B.be),B.j,s,s,s,s,s,s))},
 S9(a){var s=null
-return A.lR(s,A.a0t(A.a([B.kK,A.Hh(A.il("Terms of User",s,s,B.vN,s,s),new A.a7V(a),s),B.GB,A.Hh(A.il("Privacy Policy",s,s,B.vN,s,s),new A.a7W(a),s),B.kK],t.p),B.b6,B.bF,B.be),B.yu,s,s,88,s,s,s)}}
+return A.lR(s,A.a0t(A.a([B.kK,A.Hh(A.il("Terms of Use",s,s,B.vN,s,s),new A.a7V(a),s),B.GB,A.Hh(A.il("Privacy Policy",s,s,B.vN,s,s),new A.a7W(a),s),B.kK],t.p),B.b6,B.bF,B.be),B.yu,s,s,88,s,s,s)}}
 A.a7V.prototype={
 $0(){this.a.T(t.q0).x.LM("/tou",null)},
 $S:0}
